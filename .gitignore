@@ -1,7 +1,7 @@
 .DS_Store
 node_modules/
 npm-debug.log
-package-block.json
+package-lock.json
 yarn-error.log
 
 # Editor directories and files
